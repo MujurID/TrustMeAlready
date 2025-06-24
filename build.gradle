@@ -18,6 +18,8 @@ allprojects {
     repositories {
         google()
         jcenter()
+        // Could not find de.robv.android.xposed:api:82.
+        maven { url "https://archiva.interlocsolutions.com/archiva/repository/internal" }
         
     }
 }
