@@ -7,7 +7,7 @@ android {
         minSdkVersion 27
         targetSdk 34
         versionCode 9
-        versionName '1.19'
+        versionName '1.19.20250624-mujurid-rebuild'
     }
         buildTypes {
         release {
